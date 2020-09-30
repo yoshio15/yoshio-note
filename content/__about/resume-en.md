@@ -4,7 +4,8 @@ date: 2020-9-30 22:00:00
 lang: 'en'
 ---
 
-# Yoshioのプロフィール
+# Profile
+![](./images/profile.png)
 
 ## ステータス
 - 名前：Yoshio Kondo
