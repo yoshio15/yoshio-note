@@ -5,7 +5,7 @@ lang: 'en'
 ---
 
 # Profile
-![](./images/profile.png)
+![](./images/thum_profile.png)
 
 ## ステータス
 - 名前：Yoshio Kondo
