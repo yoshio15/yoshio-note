@@ -16,8 +16,8 @@ lang: 'en'
   - Java（Spring Boot）
   - Python
   - JavaScript/TypeScript（Vue/React）
-- その他技術
-  - AWS
+- その他
+  - Vimを勉強している
 
 ## 各種アカウント
 - GitHub：https://github.com/yoshio15
@@ -40,6 +40,7 @@ HTMLファイルを共有できるサービスです。
   - Lambda
   - DynamoDB
   - S3
+  - CroudFront
 
 α版URL：http://d3gb33njhqlz7c.cloudfront.net/
 
@@ -52,3 +53,10 @@ HTMLファイルを共有できるサービスです。
 
 などの想いから、GatsbyJSというフレームワークを使って本ブログを運営する方針へと切り替え、移行しました。
 ついでに適当に命名していた独自ドメインも取得しなおしました。
+
+■ 使用技術
+- React/JavaScript
+- GatsbyJS
+
+■ クラウドホスティングサービス
+- Netlify
