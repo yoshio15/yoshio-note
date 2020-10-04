@@ -25,7 +25,8 @@ export default ({ data }) => {
       <div dangerouslySetInnerHTML={{ __html: resume.html }} />
       <div
         style={{
-          marginTop: `10px`
+          marginTop: `30px`,
+          textAlign: `end`
         }}
       >
         <Link to={'/'}>ブログトップへ戻る{' >>'}</Link>
