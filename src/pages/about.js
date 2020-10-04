@@ -1,8 +1,9 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
 import * as Lang from '../constants'
+import { BlogTopButton } from '../components/blog-top-button'
 
 export default ({ data }) => {
   const resumes = data.allMarkdownRemark.edges
@@ -23,14 +24,7 @@ export default ({ data }) => {
       }}
     >
       <div dangerouslySetInnerHTML={{ __html: resume.html }} />
-      <div
-        style={{
-          marginTop: `30px`,
-          textAlign: `end`
-        }}
-      >
-        <Link to={'/'}>ブログトップへ戻る{' >>'}</Link>
-      </div>
+      <BlogTopButton />
     </div>
   )
 }
