@@ -2,7 +2,7 @@ module.exports = {
   title: `Yoshio Note`,
   description: `@yoshio_15の技術ブログです。`,
   author: `Yoshio`,
-  introduction: `ソフトウェアエンジニアをやっています。Vimmerになりたい。`,
+  introduction: `本ブログの運営者。ソフトウェアエンジニアをやっています。`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: `yoshio_15`, // Your Twitter account
