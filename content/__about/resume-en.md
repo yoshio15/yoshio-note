@@ -60,3 +60,5 @@ HTMLファイルを共有できるサービスです。
 
 ■ クラウドホスティングサービス
 - Netlify
+
+ブログURL：https://yoshionote.com/
