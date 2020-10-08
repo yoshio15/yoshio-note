@@ -52,7 +52,7 @@ export function Head({ description, lang, meta, keywords, title }) {
               },
               {
                 property: `og:image`,
-                content: `/blog_thumbnail.png`
+                content: `./blog_thumbnail.png`
               }
             ]
               .concat(
