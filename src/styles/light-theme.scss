@@ -44,6 +44,12 @@ body.light {
   }
 
   .thumbnail {
+    border: 1px solid;
+    border-radius: 4px;
+    border-color: #C0C0C0;
+    margin-top: 20px;
+    padding: 0 20px;
+    padding-bottom: 10px;
     h3 {
       color: $dark-gray;
     }
@@ -51,7 +57,7 @@ body.light {
       color: $middle-gray;
     }
     &:hover {
-      text-shadow: $light-hover-text-shadow;
+      background-color: #f7f7f7;
     }
   }
 
