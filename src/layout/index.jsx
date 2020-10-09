@@ -1,21 +1,15 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 
 import { Top } from '../components/top'
 import { Header } from '../components/header'
 import { ThemeSwitch } from '../components/theme-switch'
 import { Footer } from '../components/footer'
-import { THEME } from '../constants'
 import { rhythm } from '../utils/typography'
-import * as Dom from '../utils/dom'
 
 import './index.scss'
 
 export const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
-
-  useEffect(() => {
-    Dom.addClassToBody(THEME.LIGHT)
-  });
 
   return (
     <React.Fragment>
