@@ -1,5 +1,5 @@
 ## Yoshio Note
-個人ブログ [Yoshio Note](https://yoshionote.com/) のリポジトリ。  
+個人ブログ [Yoshio Note](https://yoshionote.com/) のリポジトリ。
 元々WordPressで運用していたブログを Gatsby × Netlify （本リポジトリ）に移行。
 
 ### 使用技術
