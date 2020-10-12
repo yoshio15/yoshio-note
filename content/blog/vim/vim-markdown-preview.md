@@ -8,6 +8,16 @@ Vim上でMarkdownのプレビューを行う方法です。
 結論としては、[preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim)というプラグインを使うことによって実現することができます。
 
 ## 環境
+### OS
+- macOS Catalina v10.15.6
+
+### Vim
+```vim
+$ vim --version
+VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Aug  2 2020 00:45:48)
+```
+- プラグインマネージャー：[vim-plug](https://github.com/junegunn/vim-plug)
+
 ## 手順
 ## 完成イメージ
 ## おまけ
