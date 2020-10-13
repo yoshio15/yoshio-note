@@ -19,6 +19,31 @@ VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Aug  2 2020 00:45:48)
 - プラグインマネージャー：[vim-plug](https://github.com/junegunn/vim-plug)
 
 ## 手順
+### 1. Markdown のパーサーをインストール
+後にインストールするVimプラグインで内部的に利用するためのMarkdown のパーサーをインストールします。
+今回は[mdr](https://github.com/MichaelMure/mdr)というパーサーを利用しますが、他にも下記のパーサーが利用可能です。
+
+- [mdr](https://github.com/MichaelMure/mdr) （← 今回利用する）
+- [glow](https://github.com/charmbracelet/glow)
+- [mdcat](https://github.com/lunaryorn/mdcat)
+
+ターミナルに`mdr`コマンドを入力した時に以下のように表示されればOKです。
+```bash
+$ mdr
+usage: mdr <file.md>
+```
+
+### 2. preview-markdown.vim をインストール
+僕はプラグインマネージャーに[vim-plug](https://github.com/junegunn/vim-plug)を使っているので、`.vimrc`に以下の通り追記しました。
+```vim
+Plug 'skanehira/preview-markdown.vim'
+```
+
+あとはプレビューしたい`.md`ファイルをVimで開き、以下を入力すると無事にマークダウンファイルのプレビューをみることができます。
+```vim
+:PreviewMarkdown
+```
+
 ## 完成イメージ
 ## おまけ
 ## 参考
