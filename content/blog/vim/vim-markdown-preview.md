@@ -18,6 +18,11 @@ VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Aug  2 2020 00:45:48)
 ```
 - プラグインマネージャー：[vim-plug](https://github.com/junegunn/vim-plug)
 
+## 完成イメージ
+最終的な完成イメージはこんな感じです。
+
+![](./images/screen-shot.png)
+
 ## 手順
 ### 1. Markdown のパーサーをインストール
 後にインストールするVimプラグインで内部的に利用するためのMarkdown のパーサーをインストールします。
@@ -44,7 +49,6 @@ Plug 'skanehira/preview-markdown.vim'
 :PreviewMarkdown
 ```
 
-## 完成イメージ
 ## おまけ
 ## 参考
 - [preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim)
