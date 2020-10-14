@@ -23,7 +23,6 @@ lang: 'en'
 - GitHub：https://github.com/yoshio15
 - Twitter：https://twitter.com/yoshio_15
 - Qiita：https://qiita.com/
-- LinkedIn：https://www.linkedin.com/in/yoshio-kondo/
 
 ## 作った（ている）もの
 ### ■ First-Step（2020/02〜現在）
