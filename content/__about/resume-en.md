@@ -68,3 +68,14 @@ HTMLファイルを共有できるサービスです。
 - Netlify
 
 ブログURL：https://yoshionote.com/
+
+### ■ vim-blogpost（2020/10）
+Vimのプラグインです。
+
+Vim上でブログ記事を執筆する際に `:BlogPost {カテゴリ名} {ファイル名}` を実行することで、
+必要なディレクトリ、ファイル（テンプレート記載済み）を生成してくれます。
+
+◼️ 使用技術
+- VimScript
+
+リポジトリURL：https://github.com/yoshio15/vim-blogpost
