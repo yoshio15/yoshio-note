@@ -32,10 +32,11 @@ lang: 'en'
 - Qiita：https://qiita.com/
 
 ## 作った（ている）もの
-### ■ First-Step（2020/02〜現在）
+### ■ First-Step（2020/02〜10）
 HTMLファイルを共有できるサービスです。
 最小限の機能は実装してあるのでアルファ版として試験的に公開中。
 初めて自作した（ている）Webアプリケーションです。  
+※ 現在非公開
 
 ◼️ 使用技術（抜粋）
 - React/TypeScript（フロントエンド）
@@ -48,7 +49,6 @@ HTMLファイルを共有できるサービスです。
   - S3
   - CroudFront
 
-α版URL：http://d3gb33njhqlz7c.cloudfront.net/
 
 ### ■ Yoshio Note（2020/09〜現在）
 本ブログです。元々は2019年5月からWordPressにてブログ運営を行っていたのですが、
