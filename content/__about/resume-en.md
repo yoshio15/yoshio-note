@@ -11,7 +11,6 @@ lang: 'en'
 - 名前：Yoshio Kondo
 - 職業：ソフトウェアエンジニア
 - 年齢：23歳（新卒2年目）
-- プログラミング歴：1年半（2020年10月現在）
 - 経験言語
   - Java（Spring Boot）
   - Python
@@ -50,7 +49,7 @@ HTMLファイルを共有できるサービスです。
   - CroudFront
 
 
-### ■ Yoshio Note（2020/09〜現在）
+### ■ Yoshio Note（2020/09〜10）
 本ブログです。元々は2019年5月からWordPressにてブログ運営を行っていたのですが、
 - フロントエンドのパフォーマンスをもっと向上させ、UXを改善したい
 - 画面レイアウトやソースコードの改善をもっと気軽に行いたい
@@ -76,6 +75,21 @@ Vim上でブログ記事を執筆する際に `:BlogPost {カテゴリ名} {フ�
 必要なディレクトリ、ファイル（テンプレート記載済み）を生成してくれます。
 
 ◼️ 使用技術
-- VimScript
+- Vim script
 
 リポジトリURL：https://github.com/yoshio15/vim-blogpost
+
+### ■ vim-trello（2021/01~現在）
+Vim上でTrelloを使ってタスク管理ができるプラグインです。  
+
+`:VimTrello` というExコマンドを提供していて、以下の機能等が利用可能です。
+- ボード：一覧表示
+- リスト：一覧表示/追加/削除
+- タスク：一覧表示/追加/削除/編集/詳細表示
+
+使い方の詳細等については、README.mdや[こちら](https://zenn.dev/yoshio/articles/e40a4173bf6d6ec1b131)の記事にまとまっています。
+
+◼️ 使用技術
+- Vim script
+
+リポジトリURL：https://github.com/yoshio15/vim-trello
