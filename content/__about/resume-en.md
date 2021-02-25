@@ -10,7 +10,7 @@ lang: 'en'
 ## ステータス
 - 名前：Yoshio Kondo
 - 職業：ソフトウェアエンジニア
-- 年齢：23歳（新卒2年目）
+- 年齢：23歳
 - 経験言語
   - Java（Spring Boot）
   - Python
@@ -26,9 +26,10 @@ lang: 'en'
 </div>
 
 ## 各種アカウント
-- GitHub：https://github.com/yoshio15
-- Twitter：https://twitter.com/yoshio_15
-- Qiita：https://qiita.com/
+- GitHub：[yoshio15](https://github.com/yoshio15)
+- Twitter：[@yoshio_15](https://twitter.com/yoshio_15)
+- Qiita：[oihsoy](https://qiita.com/oihsoy)
+- Zenn：[yoshio](https://zenn.dev/yoshio)
 
 ## 作った（ている）もの
 ### ■ First-Step（2020/02〜10）
